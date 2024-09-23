@@ -1,0 +1,4 @@
+streamlit
+vaderSentiment
+langdetect
+googletrans
